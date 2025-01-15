@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm ShyninK</h1>
 <h3 align="center">A passionate newbie developer from somewhere in Java</h3>
 
-- 🤔 I’m looking for new journey
+- 🤔 I’m looking for **new journey**
 
-- 🔭 I’m currently working on [my self projects](dont have yet)
-
+- 🔭 I’m currently working on **my goals**
+ 
 - 🌱 I’m currently learning **Javascript and Cloud Computing**
 
 - 📫 How to reach me **rezashynink@gmail.com**
