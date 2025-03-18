@@ -3,9 +3,9 @@
 
 - 🤔 I’m looking for **new journey**
 
-- 🔭 I’m currently working on **my goals**
+- 🔭 I’m currently working on **Internship Project**
  
-- 🌱 I’m currently learning **Javascript and Cloud Computing**
+- 🌱 I’m currently learning **Code Igniter for my Project**
 
 - 📫 How to reach me **rezashynink@gmail.com**
 
